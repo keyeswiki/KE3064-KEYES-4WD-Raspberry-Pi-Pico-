@@ -1,0 +1,20 @@
+# Android 系统 APP
+
+1.下载mecanum_robot.apk文件
+A. 我们资料包中有提供Android apk安装包，在下图位置：
+![Img](./media/d05154ba1e7184fcd610e5ce29640638.png)
+现将文件夹中的keyes arm.apk文件转移到安卓系统手机或平板电脑上。
+
+B.或者，使用手机浏览器中的扫描功能对着二维码扫描识别或者输入网址：http://8.210.52.206/mecanum_robot.apk 进行下载，识别成功后就可以进入下载mecanum_robot.apk页面，点击“**下载**”下载mecanum_robot应用程序。
+![Img](./media/7f7f0ab3af3fcb85e9252959d9245956.png)
+
+2.点击“**允许**”进入安装界面，点击“**继续安装”**就可以安装好mecanum_robot应用程序。
+![Img](./media/315d5e136dbed1f8068be57c6f17406a.png)
+![Img](./media/d3655d03e04749c176aeaa7804392879.png)
+![Img](./media/7a6454b78a19f4dac46d65564d444dd5.png)
+3.点击“**打开**”或点击手机桌面上的应用程序mecanum_robot![Img](./media/28b722f490728f1f9226c6fa0594fd00.png)就可以打开APP，界面如下所示：
+![Img](./media/50fd1d2fb41f2a93d76f3df26f2f5b08.png)
+
+4.先<span style="color: rgb(255, 76, 65);">开启手机/平板的蓝牙</span>，再打开App，点击APP界面右上角的![Img](./media/15d5c8e0db80c9c88b960a60a4853aec.png)按钮（控件）进行蓝牙搜索，在搜索结果中寻找“BT24”对话框，在“BT24”对话框中点击“connect”即可连接蓝牙。当对话框的“connect”变成“is connected”，说明蓝牙连接成功。
+![Img](./media/57de258463389e4bf6fce11bfab1ddad.png)
+![Img](./media/9eaf34bb1e0c5e9ac058e8b64c005ed0.png)

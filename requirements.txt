@@ -24,6 +24,7 @@ requests==2.27.1
 snowballstemmer==2.2.0
 Sphinx==7.2.6
 sphinx-rtd-theme==1.3.0
+sphinx-book-theme==1.1.3
 sphinx-mathjax-offline==0.0.2
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2

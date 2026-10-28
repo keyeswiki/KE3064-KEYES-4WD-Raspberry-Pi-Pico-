@@ -4,6 +4,7 @@
    :caption: KE3064 KEYES 4WD Raspberry Pi Pico 麦克纳姆轮智能小车（含主板）
 
    README.md
+   docs/0. 资料下载.md
    docs/1. 产品介绍/产品介绍.md
    docs/2. 主板及扩展板介绍.md
    docs/3. Arduino C 教程.md
